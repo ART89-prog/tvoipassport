@@ -667,4 +667,17 @@
     /*-----------
         PopUp
     -----------*/
+
+
+
+    /* Страница VIDEO-OPENED */
+
+    .video-opened .author_photo {
+        width: 100px;
+        height: 100px;
+    }
+
+
+
+    
 }

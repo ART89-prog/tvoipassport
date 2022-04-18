@@ -195,7 +195,7 @@ $(() => {
 		new Swiper('.video_slider5', {
 			loop: true,
 			spaceBetween: 20,
-			slidesPerView: 2,
+			slidesPerView: 1,
 			watchOverflow: true,
 			watchSlidesProgress: true,
 			navigation: {
@@ -228,6 +228,45 @@ $(() => {
 				}
 			}
 		})
+	}
+
+	if ($('.video_slider6').length) {
+		new Swiper('.video_slider6', {
+			loop: true,
+			spaceBetween: 20,
+			slidesPerView: 1,
+			watchOverflow: true,
+			watchSlidesProgress: true,
+			navigation: {
+				nextEl: '.slider-button-next',
+				prevEl: '.slider-button-prev'
+			},
+			on: {
+				init: function () {
+					setTimeout(() => {
+						observer.observe()
+					}, 200)
+				}
+			},
+			breakpoints: {
+				'320': {
+					slidesPerView: 1,
+					spaceBetween: 20,
+				},
+				'480': {
+					slidesPerView: 2,
+					spaceBetween: 20,
+				},
+				'768': {
+					slidesPerView: 2,
+					spaceBetween: 20,
+				},
+				'1024': {
+					slidesPerView: 3,
+					spaceBetween: 20,
+				}
+			}
+		})	
 	}
 
 	
