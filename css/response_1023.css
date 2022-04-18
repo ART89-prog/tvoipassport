@@ -593,6 +593,13 @@
     }
 
 
+    /* Страница PRICE */
+    .price {
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+
+
     /* Страница CONTACTS */
     .contacts_info,
     .contacts_info .mail a, 
@@ -821,6 +828,7 @@
         margin-bottom: 9px;
         margin-top: 18px;
     }
+
 
 
 

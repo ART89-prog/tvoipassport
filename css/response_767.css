@@ -426,7 +426,7 @@
     /* Страница ABOUT */
     .about .about_list li {
         padding-left: 20px;
-        font-size: 13px;
+        font-size: 11px;
         line-height: 20px;
     }
     .about .about_list li:after {
@@ -718,6 +718,9 @@
         line-height: 20px;
         margin-bottom: 8px;
         margin-top: 14px;
+    }
+    .blog-opened .article .name {
+        padding: 20px 0px 0;
     }
 
 

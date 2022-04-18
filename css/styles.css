@@ -2922,7 +2922,7 @@ footer .copy
 .about .about_list li {
     position: relative;
     padding-left: 44px;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 28px;
     margin-bottom: 10px;
     font-weight: 500;
@@ -2951,7 +2951,7 @@ footer .copy
     max-width: 765px;
 }
 .contacts_info {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 24px;
     font-weight: 300;
     color: #000000; 
@@ -3007,7 +3007,7 @@ footer .copy
 .contacts_info .mail a,
 .contacts_info .phones a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 0px;
     font-weight: 300;
     color: #000000;
@@ -3043,7 +3043,7 @@ footer .copy
     max-width: 870px;
 }
 .price_item-title {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 500;
     color: #5b627b;
@@ -3082,10 +3082,10 @@ footer .copy
     box-shadow: 2px 4px 2px 0px rgba(28,25,25,0.15);
     border-radius: 5px;
     margin-bottom: 10px;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
-    color: #060606;
+    color: var(--text_color);
     display: flex;
     justify-content: space-between;
 }
@@ -3127,7 +3127,7 @@ footer .copy
     max-width: 1097px;
 }
 .faq_item_title {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 500;
     color: #5b627b;
@@ -3158,10 +3158,10 @@ footer .copy
 .faq .accordion_item .head {
     position: relative;
     padding-left: 30px;    
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
-    color: #060606;
+    color: var(--text_color);
     display: flex;
     justify-content: space-between;
     cursor: pointer;
@@ -3208,7 +3208,7 @@ footer .copy
 }
 .video-page_title {
     text-decoration: none;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 1.2;
     font-weight: 500;
     color: #5b627b;
@@ -3216,10 +3216,10 @@ footer .copy
     display: block;
 }
 .video-page_text {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
-    color: #060606;
+    color: var(--text_color);
     margin-top: 19px; 
     text-overflow: ellipsis;
     display: -webkit-box;
@@ -3229,7 +3229,7 @@ footer .copy
 }
 .video-page_title-big {
     position: relative;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 36px;
     font-weight: 500;
     color: #5b627b;
@@ -3300,7 +3300,7 @@ footer .copy
     margin-left: 47px;
 }
 .video-opened .author_name {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 500;
     color: #5b627b;
@@ -3323,7 +3323,7 @@ footer .copy
     padding: 20px;
 }
 .video-opened .telegram_text {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
     color: #000000;    
@@ -3354,10 +3354,10 @@ footer .copy
     width: 100%;
 }
 .video-opened .text-block p {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 24px;
     font-weight: 300;
-    color: #060606;
+    color: var(--text_color);
 }
 .video-opened_img {
     max-width: 554px;
@@ -3377,7 +3377,7 @@ footer .copy
 }
 .video-opened_info ul li {
     position: relative;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 26px;
     font-weight: 500;
     color: #5b627b;
@@ -3404,17 +3404,17 @@ footer .copy
     width: 100%;
 }
 .video-opened_bottom-title {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 36px;
     font-weight: 500;
     color: #5b627b;
     margin-bottom: 5px;
 }
 .video-opened_bottom-text {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 25px;
     font-weight: 300;
-    color: #060606;
+    color: var(--text_color);
 }
 .video-opened_bottom-phone {
     margin-top: 11px;
@@ -3423,7 +3423,7 @@ footer .copy
 .video-opened_bottom-phone a {
     text-decoration: none;
     font-family: "Roboto";
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 30px;
     font-weight: 500;
     color: #5b627b;
@@ -3432,7 +3432,7 @@ footer .copy
 .video-opened_bottom-text a {
     text-decoration: none;
     font-family: "Roboto";
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
     color: #5b627b;
@@ -3472,7 +3472,7 @@ footer .copy
     color: #ffffff;
 }
 .blog-page_text {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 20px;
     font-weight: 500;
     color: #ffffff;
@@ -3556,10 +3556,10 @@ footer .copy
     text-align: end;
 }
 .page_text {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
-    color: #060606;
+    color: var(--text_color);
     margin-top: 8px;
 }
 .blog-page_menu ul li a:hover {
@@ -3609,7 +3609,7 @@ footer .copy
     margin-top: 34px;
 }
 .reviews-page_text {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 500;
     color: #5b627b;
@@ -3647,10 +3647,10 @@ footer .copy
     max-width: 825px;
 }
 .blog-opened .text_block {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
-    color: #060606;   
+    color: var(--text_color);  
 }
 .blog-opened .text_block ol,
 .blog-opened .text_block ul {
@@ -3659,7 +3659,7 @@ footer .copy
 .blog-opened .text_block ul li {
     padding-left: 36px;
     position: relative;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 26px;
     font-weight: 500;
     color: #5b627b;
@@ -3667,10 +3667,10 @@ footer .copy
 .blog-opened .text_block ol li {
     padding-left: 13px;
     position: relative;
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 300;
-    color: #060606;
+    color: var(--text_color);
 }
 .blog-opened .text_block ol li::after {
     position: absolute;
@@ -3679,10 +3679,10 @@ footer .copy
     height: 1px;
     top: 13px;
     left: 0;
-    background: #060606;
+    background: var(--text_color);
 }
 .text_block h3 {
-    font-size: 20px;
+    font-size: var(--font_size);
     line-height: 27px;
     font-weight: 500;
     color: #5b627b;   
