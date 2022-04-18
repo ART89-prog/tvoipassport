@@ -679,5 +679,20 @@
 
 
 
-    
+    /* Страница BLOG-PAGE */ 
+    .blog-page_items > * {
+        width: 100%;
+        margin-left: 0;
+    }
+    .blog-page_items {
+        margin-left: 0;
+    }
+    .blog-page_text {
+        font-size: 11px;
+    }
+
+
+
+
+
 }

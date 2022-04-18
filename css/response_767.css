@@ -700,4 +700,17 @@
 
 
 
+    /* Страница BLOG-PAGE */ 
+    .blog-page_items > * {
+        width: calc(100%/2 - 22px);
+        margin-left: 22px;
+    }
+    .blog-page_text {
+        padding: 0;
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+
+
+
 }
