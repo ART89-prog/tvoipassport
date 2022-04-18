@@ -597,120 +597,145 @@
 
 
 
-    /* Страница VIDEO-OPENED */
-
-    .video-opened .author_info {
-        margin-left: 20px;
-    }
-    .video-opened .author_photo {
-        width: 130px;
-        height: 130px;
-    }
-    .video-opened .author {
-        margin-bottom: 20px;
-        margin-top: 20px;
-    }
-    .video-opened_telegram .cont {
-        flex-direction: column;
-        padding: 15px;
-    }
-    .video-opened .telegram_text {
-        margin-right: 0;
-        margin-bottom: 15px;
-        text-align: center;
-        font-size: 16px;
-        line-height: 22px;
-    }
-    .video-opened .telegram_btn {
-        width: 100%;
-    }
-    .video-opened_link::after {
-        width: 10px;
-        height: 12px;
-    }
-    .video-opened_link {
-        font-size: 14px;
-        line-height: 18px;
-        padding-left: 19px;
-        margin-bottom: 20px;
-    }
-    .video-opened .author_name {
-        font-size: 15px;
-        line-height: 20px;
-        margin-bottom: 7px;
-    }
-    .video-opened .author_post {
-        font-size: 14px;
-        line-height: 20px;
-    }
-    .video-opened .telegram_btn span {
-        font-size: 16px;
-    }
-    .video-opened .text-block p {
-        font-size: 16px;
-        line-height: 24px;
-    }
-    .video-opened_telegram {
-        margin-bottom: 20px;
-    }
-    .video-opened_img {
-        margin: 20px auto 10px;
-    }
-    .video-opened .recommendation {
-        font-size: 14px;
-        line-height: 20px;
-        margin-bottom: 15px;
-    }
-    .video-opened_info ul {
-        margin-bottom: 20px;
-        margin-top: 20px;
-    }
-    .video-opened_info ul li {
-        font-size: 16px;
-        line-height: 24px;
-    }
-    .video-opened_info ul li:after {
-        top: 5px;
-    }
-    .video-opened_bottom {
-        padding-top: 20px;
-        padding-bottom: 20px;
-        margin-top: 15px;
-    }
-    .video-opened_bottom-title {
-        font-size: 18px;
-        line-height: 26px;
-        margin-bottom: 10px;
-    }
-    .video-opened_bottom-text {
-        font-size: 16px;
-        line-height: 22px;
-    }
-    .video-opened_bottom-phone a {
-        font-size: 16px;
-    }
-    .video-opened_bottom-phone {
-        margin-top: 8px;
-        margin-bottom: 8px;
-    }
-    .video-opened_bottom-text a {
-        font-size: 16px;
-        line-height: 22px;
-    }
-
-
-
     /* Страница BLOG-PAGE */ 
-    .blog-page_items > * {
+    .page_items > * {
         width: calc(100%/2 - 22px);
         margin-left: 22px;
     }
-    .blog-page_text {
+    .page_text {
         padding: 0;
         font-size: 13px;
-        margin-bottom: 0;
+        line-height: 19px;
+        margin-bottom: 0px;
+    }
+    .blog-page_menu ul {
+        justify-content: flex-start;
+    }
+    .blog-page_menu ul li a {
+        font-size: 14px;
+    }
+    .telegram_btn span {
+        font-size: 16px;
+    }
+    .pagination {
+        margin-top: 20px;
+    }
+    .pagination a {
+        font-size: 15px;
+    }
+    .pagination a img {
+        width: 5px;
+    }
+    .blog-page_top .blog-page_text {
+        font-size: 15px;
     }
 
+
+
+    /* Страница VIDEO-OPENED */
+
+    .video-opened .author_photo {
+        width: 100px;
+        height: 100px;
+    }
+    .video-opened .text-block p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .video-opened_info ul li {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .video-opened_bottom-title {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .video-opened_bottom-text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .video-opened_bottom-phone a {
+        font-size: 14px;
+    }
+    .video-opened_bottom-text a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .video-opened .telegram_text {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+
+
+    /* Страница BLOG-PAGE */
+
+    .reviews-page_text {
+        font-size: 15px;
+        line-height: 22px;
+        margin-top: 13px;
+    }
+    .reviews-page .page_items {
+        margin-top: 20px;
+    }
+    .reviews-page .page_items > * {
+        margin-bottom: 25px;
+    }
+
+
+
+    /* Страница BLOG-OPENED */
+
+    .blog-opened .text_block {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .blog-opened .text_block ul li {
+        padding-left: 20px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .blog-opened .text_block ul li + li {
+        margin-top: 7px;
+    }
+    .blog-opened .text_block ul {
+        margin-bottom: 13px;
+    }
+    .blog-opened .text_block p {
+        margin-bottom: 10px;
+    }
+    .blog-opened .text_block ol li {
+        padding-left: 10px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .blog-opened .text_block ol li::after {
+        width: 4px;
+        top: 9px;
+    }
+    .text_block h3 {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 8px;
+        margin-top: 14px;
+    }
+
+
+
+    /* Страница REVIEWS-OPENED */
+
+    .reviews-opened .video-opened_telegram {
+        margin-top: 20px;
+    }
+    .reviews-opened .page_items {
+        margin-top: 20px;
+    }
+    .telegram_text {
+        font-size: 15px;
+    }
+
+
+    
 
 
 }

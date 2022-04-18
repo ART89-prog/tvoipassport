@@ -670,26 +670,42 @@
 
 
 
-    /* Страница VIDEO-OPENED */
 
-    .video-opened .author_photo {
-        width: 100px;
-        height: 100px;
-    }
 
 
 
     /* Страница BLOG-PAGE */ 
-    .blog-page_items > * {
+    .page_items > * {
         width: 100%;
         margin-left: 0;
     }
-    .blog-page_items {
+    .page_items {
         margin-left: 0;
     }
-    .blog-page_text {
+    .page_text {
         font-size: 11px;
+        line-height: 17px;
+        margin-top: 5px;
     }
+
+
+    /* Страница REVIEWS-PAGE */
+
+    .reviews-page .page_items > * {
+        margin-bottom: 20px;
+    }
+    .reviews-page_text {
+        font-size: 14px;
+        line-height: 19px;
+        margin-top: 10px;
+    }
+
+
+    /* Страница BLOG-OPENED */
+
+
+
+    /* Страница REVIEWS-OPENED */
 
 
 
