@@ -251,14 +251,14 @@
         padding-left: 24px;
     }
 
-    .text_block ul li + li
+    /* .text_block ul li + li
     {
         margin-top: 20px;
-    }
+    } */
 
     .text_block ul li:before
     {
-        top: 3px;
+        top: 4px;
 
         width: 10px;
         height: 14px;
@@ -585,15 +585,7 @@
     .block2 {
         margin: 30px 0 30px;
     }
-    .about .about_list li {
-        padding-left: 33px;
-        font-size: 16px;
-        line-height: 25px;
-        margin-bottom: 10px;
-    }
-    .about .about_list li:after {
-        top: 5px;
-    }
+
 
 
     /* Страница PRICE */
@@ -724,13 +716,6 @@
         margin-bottom: 20px;
         margin-top: 20px;
     }
-    .video-opened_info ul li {
-        font-size: 16px;
-        line-height: 24px;
-    }
-    .video-opened_info ul li:after {
-        top: 5px;
-    }
     .video-opened_bottom {
         padding-top: 20px;
         padding-bottom: 20px;
@@ -784,28 +769,16 @@
 
     .blog-opened .opened_link {
         margin-bottom: 20px;
-    }
-    .blog-opened .text_block {
-        font-size: 16px;
-        line-height: 22px;
-    }
-    .blog-opened .text_block ul li {
-        padding-left: 24px;
-        font-size: 16px;
-        line-height: 22px;
-    }
+    }    
     .blog-opened_info {
         margin-top: 20px;
     }
-    .blog-opened .text_block ul {
-        margin-bottom: 20px;
-    }
-    .blog-opened .text_block ol li {
+    .text_block ol li {
         padding-left: 11px;
         font-size: 16px;
         line-height: 22px;
     }
-    .blog-opened .text_block ol li::after {
+    .text_block ol li::after {
         width: 5px;
         top: 11px;
     }

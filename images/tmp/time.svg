@@ -1,3 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
-  <image id="Иконка_Время" data-name="Иконка Время" width="44" height="44" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAEdUlEQVRYhcWZT2gVVxSHv7yEtlHqIg3ULkzRgEJNQLQLcZNCayulUG1dJcZCaMGFEdHuCi7cFYoEYtugILS2LkoKXVQR7UI3IrRKwdhSIS24EhpDabFBMEZO5jdxcv/Me2/ejH7wFu/eO+f+Zubcc+490zY08gkt0AUMAK8BG4H1wAvACpm8B8wCt4CbwCXgstoK0VHgonZgJzACvFnHxkr91gCvAweAB8AF4BTwAzDvXZVDLd7l0QbsBf4AJoG364iN0aFrJ2Vrr2yXKrgfuAJ8BfR6vcXplU2z3VeW4H3Az8BWr6c8zPYvmiuXvFdqvjoG7Pd6lvOffNIW0w3gdmZR2aLs0RsakM8/71lIeBb4EngFOAg89EbkCDaxXwODXs9jfgWOyRfnvN6Ef4A/FR3GgU5gN3AI2OSNThhVpBkOiY65xFiO2DvAHmAzcDpHbIg5XbNZNu54IxIGpcEjJHhfjhuc1+v9Fljweh9jT3BXTv+CbPTLZojRkE+7gvtjdwYcB94BZrweHwtV7zYwbkY2j3s9CWNu9MgKtlh4Qs4fEjvabJBvkHnZDok2LSezcToreDgSus5r1VbNwYh7bJW2ZYItKhzxhiaLYriiJ+syr7lCC/GINC4J3hnJYB836LNlMaM5XXqlcUnwiDckibNnvNbqOaO5XUZSwV3KQC7H6oSuqljQ3C6msaumlOlmvH+VwZ4Wk0r5WUzjQE2bb5eLTWawspnT/sRlUfBGrznJ/U+bkIa+mo41LlNey5MnpGF9TTsjl9teS+O8BKwFdmiTU5SQhsVFt8JrbuGQCBwGVgEvAte06mO/ULLK07AytFtrhXXAy01c/4zXUgcLFf8HnnKXNt+NYDf9BrAa+AsY0nHH/n8B/B2xMR8IXa4Gl3sm+G5AcI9OCnmY77+lHP+TE4Y+zbmuUXoC42Y7VORY43T0RcKK8apCod3od6ozVEHoFH2rpoqMi5tMngPeAz6QC9nR/McKxRLQYEx16EkecDq268CYZru1yn55PlcmnZH9zeWajufuk1ql023K709QLJrbLQc8SAXPRvL2oWZKSCXSprldTONsGodPed1J3SB21K+SwUjNYlFjKtiqiNPeEPgM6PZaq6Nbc7pMS+OSYAviR71hSfA/nZ6nKqZdc60OTHM0PVdmU7MNvuoNTTYxsVpFmYxpLper0oYr2DYjHwH3vUuSStB4RU+6XbZD1SbT8mH2qOZufqZyahD7lSzK9Olu2QyJRVqWJbbQbm1Cdxxih0qqQy2GvDbZuBFxA6Rhwm0MCUZ3Fjvi26L4BriuwkenNyJOp665LhuhBYbmDr7pWH34oQzfVd0rxCbVkD9XUL8klypa0E4ZL1LQTkXbHuM3reBQkRAJeF+/VrgvoZ4bZIm5RJYJbSlDIa8szPaWemJp4iuSvept2l6GMmJRpmVzW2Sb69HMmW5BPrtBu6lzgV1eI9g1Z2XDbJnNhktiRT4MWor8Xr/006397IRgNQ5rs6+fRvbTrb0l28oW/3QLPAJSUO4D8HHCDgAAAABJRU5ErkJggg=="/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 21.3 21.3" enable-background="new 0 0 21.3 21.3" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="21.3" height="21.3"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#5b627b" d="M0,10.7c0,5.9,4.8,10.7,10.7,10.7s10.7-4.8,10.7-10.7C21.3,4.8,16.5,0,10.7,0
+		S0,4.8,0,10.7 M18.9,10.7c0,4.5-3.7,8.2-8.2,8.2s-8.2-3.7-8.2-8.2c0-4.5,3.7-8.2,8.2-8.2S18.9,6.1,18.9,10.7"/>
+	<path clip-path="url(#SVGID_2_)" fill="#5b627b" d="M10.3,4.4v6.2c0,0.2,0.1,0.3,0.3,0.3c0.2,0,0.3-0.1,0.3-0.3V4.4
+		c0-0.2-0.1-0.3-0.3-0.3C10.4,4,10.3,4.2,10.3,4.4"/>
+	<path clip-path="url(#SVGID_2_)" fill="#5b627b" d="M4.8,13c-0.2,0.1-0.3,0.2-0.3,0.2c0,0,0.2,0,0.3-0.1l5.8-2.4
+		c0.2-0.1,0.3-0.2,0.3-0.2c0,0-0.2,0-0.3,0.1L4.8,13z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#5b627b" d="M10.8,10.2c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h4.1
+		c0.3,0,0.5-0.2,0.5-0.5c0-0.3-0.2-0.5-0.5-0.5H10.8z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#5b627b" d="M9.9,10.6c0,0.5,0.4,0.8,0.8,0.8c0.5,0,0.8-0.4,0.8-0.8c0-0.5-0.4-0.8-0.8-0.8
+		C10.3,9.8,9.9,10.2,9.9,10.6"/>
+</g>
 </svg>

@@ -675,6 +675,22 @@
 
 
     /* Страница BLOG-PAGE */ 
+    .text_block p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .text_block h3 {
+        font-size: 15px;
+    }
+    .text_block ol li,
+    .text_block ul li {
+        font-size: 13px;
+        line-height: 19px; 
+    }
+    .text_block ol,
+    .text_block ul {
+        margin-bottom: 15px;
+    }
     .block2 {
         margin: 20px 0 20px;
     }
@@ -693,6 +709,9 @@
     .blog-page_menu ul li {
         width: 100%;
     }
+    .blog-page.block2 {
+        margin: 10px 0 20px;
+    }
 
 
     /* Страница REVIEWS-PAGE */
@@ -708,12 +727,11 @@
 
 
     /* Страница ABOUT */
-    .about .about_list li {
-        font-size: 11px;
-    }
+ 
     .about .block_video {
         margin-bottom: 20px;
     }
+
 
 
     /* Страница BLOG-OPENED */
@@ -723,6 +741,10 @@
     /* Страница REVIEWS-OPENED */
 
 
+
+    /* Страница VIDEO-OPENED */
+
+   
 
 
 

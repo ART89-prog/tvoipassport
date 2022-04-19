@@ -427,20 +427,9 @@
     .block2 {
         margin: 25px 0 25px;
     }
-    .about .about_list li {
-        padding-left: 20px;
-        font-size: 13px;
-        line-height: 20px;
-    }
-    .about .about_list li:after {
-        top: 2px;
-    }
-    .about .text_block {
-        margin-bottom: 17px;
-    }
-    .about .about_list {
-        margin-top: 0px;
-        margin-bottom: 17px;
+    .about .text_block ul {
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
 
@@ -625,10 +614,6 @@
         width: 100px;
         height: 100px;
     }
-    .video-opened_info ul li {
-        font-size: 14px;
-        line-height: 20px;
-    }
     .video-opened_bottom-title {
         font-size: 16px;
         line-height: 22px;
@@ -647,6 +632,10 @@
     .video-opened .telegram_text {
         font-size: 15px;
         line-height: 20px;
+    }
+    .video-opened .recommendation {
+        font-size: 11px;
+        line-height: 15px;
     }
 
 
@@ -669,14 +658,10 @@
 
     /* Страница BLOG-OPENED */
 
-    .blog-opened .text_block {
-        font-size: 14px;
-        line-height: 20px;
-    }
-    .blog-opened .text_block ul li {
-        padding-left: 20px;
-        font-size: 14px;
-        line-height: 20px;
+    .text_block ol li,
+    .text_block ul li {
+        font-size: 13px;
+        line-height: 18px; 
     }
     .blog-opened .text_block ul li + li {
         margin-top: 7px;
@@ -684,15 +669,13 @@
     .blog-opened .text_block ul {
         margin-bottom: 13px;
     }
-    .blog-opened .text_block p {
-        margin-bottom: 10px;
-    }
-    .blog-opened .text_block ol li {
+
+    .text_block ol li {
         padding-left: 10px;
         font-size: 14px;
         line-height: 20px;
     }
-    .blog-opened .text_block ol li::after {
+    .text_block ol li::after {
         width: 4px;
         top: 9px;
     }
