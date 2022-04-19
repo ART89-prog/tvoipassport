@@ -424,9 +424,12 @@
     -----------*/
 
     /* Страница ABOUT */
+    .block2 {
+        margin: 25px 0 25px;
+    }
     .about .about_list li {
         padding-left: 20px;
-        font-size: 11px;
+        font-size: 13px;
         line-height: 20px;
     }
     .about .about_list li:after {
@@ -517,10 +520,6 @@
         margin-bottom: 11px;
         margin-top: 23px;
     }
-    .price {
-        margin-top: 30px;
-        margin-bottom: 30px;
-    }
     .price_item ul li span.euro {
         font-size: 20px;
         line-height: 27px;
@@ -557,10 +556,6 @@
         margin-bottom: 11px;
         margin-top: 23px;
     }
-    .faq {
-        margin-top: 30px;
-        margin-bottom: 30px;
-    }
     .faq .accordion_item .data {
         margin-top: 10px;
         font-size: 14px;
@@ -572,9 +567,6 @@
     /* Страница VIDEO-PAGE */
     .video-page .swiper-slide {
         padding: 10px;
-    }
-    .video-page .swiper-slide {
-        margin-bottom: 20px;
     }
     .video-page_title {
         font-size: 15px;
@@ -590,12 +582,7 @@
         font-size: 17px;
         line-height: 25px;
     }
-    .video-page {
-        margin-bottom: 20px;
-        margin-top: 20px;
-    }
-
-
+   
 
     /* Страница BLOG-PAGE */ 
     .page_items > * {
@@ -637,10 +624,6 @@
     .video-opened .author_photo {
         width: 100px;
         height: 100px;
-    }
-    .video-opened .text-block p {
-        font-size: 14px;
-        line-height: 20px;
     }
     .video-opened_info ul li {
         font-size: 14px;

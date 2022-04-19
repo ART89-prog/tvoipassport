@@ -675,6 +675,9 @@
 
 
     /* Страница BLOG-PAGE */ 
+    .block2 {
+        margin: 20px 0 20px;
+    }
     .page_items > * {
         width: 100%;
         margin-left: 0;
@@ -701,6 +704,15 @@
         font-size: 14px;
         line-height: 19px;
         margin-top: 10px;
+    }
+
+
+    /* Страница ABOUT */
+    .about .about_list li {
+        font-size: 11px;
+    }
+    .about .block_video {
+        margin-bottom: 20px;
     }
 
 

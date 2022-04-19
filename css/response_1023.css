@@ -582,6 +582,9 @@
 
 
     /* Страница ABOUT */
+    .block2 {
+        margin: 30px 0 30px;
+    }
     .about .about_list li {
         padding-left: 33px;
         font-size: 16px;
@@ -594,10 +597,7 @@
 
 
     /* Страница PRICE */
-    .price {
-        margin-top: 35px;
-        margin-bottom: 35px;
-    }
+
 
 
     /* Страница CONTACTS */
@@ -622,9 +622,6 @@
     .video-page .swiper-slide {
         padding: 15px;
     }
-    .video-page .swiper-slide {
-        margin-bottom: 25px;
-    }
     .video-page_title {
         font-size: 18px;
         margin-top: 18px;
@@ -639,13 +636,7 @@
         margin-bottom: 10px;
         font-size: 19px;
     }
-    .video-page {
-        margin-bottom: 30px;
-        margin-top: 30px;
-    }
-
-
-
+ 
 
 
     /* Страница BLOG-PAGE */
@@ -717,10 +708,6 @@
     }
     .video-opened .telegram_btn span {
         font-size: 16px;
-    }
-    .video-opened .text-block p {
-        font-size: 16px;
-        line-height: 24px;
     }
     .video-opened_telegram {
         margin-bottom: 20px;
